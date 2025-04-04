@@ -9,8 +9,8 @@ python -m venv venv
 pip install pygame
 
 ## Play
-python pong.py
-or
+python pong.py  
+or  
 python spacemission.py
 
 ## More
