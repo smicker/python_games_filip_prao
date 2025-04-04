@@ -3,7 +3,7 @@
  - spacemission - Avoid rocks when flying your space ship to collect money in space.
 
 ## Install
-python -m venv venv
+python -m venv venv  
 . venv/bin/activate
 
 pip install pygame
